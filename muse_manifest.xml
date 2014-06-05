@@ -1,0 +1,51 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_a-p_gina-maestra.css" crc="497857211" ref="geografia:mapa:historia:index:gobierno"/>
+    <file name="master_b-p_gina-maestra.css" crc="4259418890" ref="galeria"/>
+    <file name="geografia.css" crc="3864355585" ref="geografia"/>
+    <file name="mapa.css" crc="4084085315" ref="mapa"/>
+    <file name="historia.css" crc="484276291" ref="historia"/>
+    <file name="galeria.css" crc="358712731" ref="galeria"/>
+    <file name="index.css" crc="139039640" ref="index"/>
+    <file name="gobierno.css" crc="4215810592" ref="gobierno"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:historia:gobierno:geografia:mapa:galeria"/>
+    <file name="museutils.js" crc="4291592202" ref="index:historia:gobierno:geografia:mapa:galeria"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:historia:gobierno:geografia:mapa:galeria"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:historia:gobierno:geografia:mapa:galeria"/>
+    <file name="webpro.js" crc="3903299128" ref="galeria"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="galeria"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="galeria"/>
+    <file name="touchswipe.js" crc="4156838003" ref="galeria"/>
+  </folder>
+  <folder name="images">
+    <file name="christian-background-loops.jpg" crc="178458846" ref="index:historia:gobierno:geografia:mapa:galeria"/>
+    <file name="u105-7.png" crc="4233674289" ref="index:historia:gobierno:geografia:mapa"/>
+    <file name="3.jpg" crc="3941630506" ref="index:galeria"/>
+    <file name="1325081763.jpg" crc="4095026420" ref="index"/>
+    <file name="mex2.jpg" crc="52416738" ref="index:galeria"/>
+    <file name="u269-8.png" crc="431815601" ref="historia"/>
+    <file name="u274-7.png" crc="433016931" ref="gobierno"/>
+    <file name="u278-7.png" crc="436640657" ref="geografia"/>
+    <file name="pasted image 742x510.jpg" crc="86331270" ref="mapa"/>
+    <file name="u513-7.png" crc="4233674289" ref="galeria"/>
+    <file name="fondo-cielo-rosa.gif" crc="27784476" ref="galeria"/>
+    <file name="blank.gif" crc="4208392903" ref="galeria"/>
+    <file name="m.jpg" crc="3874986607" ref="galeria"/>
+    <file name="m2.jpg" crc="504044961" ref="galeria"/>
+    <file name="m3.jpg" crc="4252046174" ref="galeria"/>
+    <file name="m5.jpg" crc="4031837267" ref="galeria"/>
+    <file name="m6.jpg" crc="210340198" ref="galeria"/>
+    <file name="m7.jpg" crc="207597226" ref="galeria"/>
+    <file name="mex.jpg" crc="4250163501" ref="galeria"/>
+    <file name="loading.gif" crc="3815509949" ref="galeria"/>
+  </folder>
+  <file name="index.html" crc="269460249" mt="1401997222682" redirect="true"/>
+  <file name="historia.html" crc="4232896785" mt="1401997222687" redirect="true"/>
+  <file name="gobierno.html" crc="489529840" mt="1401997222693" redirect="true"/>
+  <file name="geografia.html" crc="4233272414" mt="1401997222699" redirect="true"/>
+  <file name="mapa.html" crc="4067134249" mt="1401997222705" redirect="true"/>
+  <file name="galeria.html" crc="172240741" mt="1401997222761" redirect="true"/>
+</manifest>
